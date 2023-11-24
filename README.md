@@ -18,6 +18,6 @@ g++ -std=c++11 -static .\ascat.cpp  -o ascat
 > ascat hello
 ```
 
-![image-20231124140304558](./assets/image-20231124140304558.png)
+![image-20231124140304558](./asset/image-20231124140304558.png)
 
 也可以将其添加到环境变量中去
